@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+}
+.banner {
+  height: 200px;
+  width: 100%;
+  padding: 0;
+}
+
+h1, h2 {
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+}
+
+.section {
+  border: 1px solid grey;
+  padding: 0rem 5rem 0rem 5rem;
+  overflow: hidden;
+}
+.section-left {
+  float: left;
+  width: 74%;
+}
+
+.section-right {
+  border: 1px solid greenyellow;
+  float: right;
+  width: 25%;
+}
+
+img {
+  width: 100%;
+}
+
+iframe {
+  padding: 0 10% 0 10%;
+}
